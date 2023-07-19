@@ -2,22 +2,6 @@ import { render } from "./lib/testing";
 import { it } from "vitest";
 import App from "./App";
 
-// ----- Exercise Instructions -----
-// This test suite is incomplete. It has test cases that are incomplete.
-// These empty test cases describe the expected functionality that is required
-// as part of this exercise. Use them as a guide to complete the exercise.
-//
-// There are optional test cases, inside the "stretch goal tests" describe block 
-// that are also empty. These are not required for the exercise, but are provided 
-// as stretch goals if you have time.
-//
-// Technical note: This test suite uses Vitest as a test runner and @testing-library/react
-// as the testing framework. We've provided links to the docs if you are unfamiliar with
-// either of these tools. For those familiar with Jest, Vitest is a Jest-like test runner
-// specific to Vite. It has a similar API to Jest and Chai (for expectations), so it should be somewhat familiar.
-// Vitest Docs: https://vitest.dev/api/expect.html
-// @testing-library/react Docs: https://testing-library.com/docs/react-testing-library/intro
-
 // ----- Running the test suite -----
 // Running `npm run dev` should have automatically opened the testing UI
 // You can run the test suite using `npm run test` or `npm run test:ui` (https://vitest.dev/guide/ui.html#vitest-ui)

@@ -21,9 +21,13 @@ const postsSlice = createSlice({
     addKudosToPost: (state, action: PayloadAction<Post>) => {
       state.posts[action.payload.id].kudosCount++;
     },
+    addPost: () => {},
+    clearPosts: (state) => {
+      state.posts = [];
+    },
   },
 });
 
-export const { addKudosToPost } = postsSlice.actions;
+export const { addKudosToPost, addPost, clearPosts } = postsSlice.actions;
 
 export default postsSlice.reducer;

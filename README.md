@@ -23,7 +23,9 @@ The tool requirements for this exercise are that you must use:
 
 ## Exercise Instructions
 
-All of the code requirements can be found in `./src/App.test.tsx`, where we've outlined test cases that describe the work you need to complete. **You do not need to implement tests for this timed exercise!** There is a separate "stretch goal tests" section that describes some optional features, so if you have any extra time and want to take a stab at those then you're more than welcome to. If you're stuck on any particular feature for too long, we encourage you to move on and try to complete as many features as you can. _Note on the test suite: If you end up using any of the test cases (again not required) make sure you delete the `.fails` on each test cast (`it()`) before writing your tests as they are there to force empty tests to fail, so that you can see the tests you still need to complete in the test UI._
+All of the code requirements can be found in `./src/App.test.tsx`, where we've outlined test cases that describe the work you need to complete. **You do not need to implement tests for this timed exercise!**
+
+Also, there is a separate "stretch goal tests" section that describes some optional features, so if you have any extra time and want to take a stab at those then you're more than welcome to. If you're stuck on any particular feature for too long, we encourage you to move on and try to complete as many features as you can.
 
 This application is intended to track state with Redux. A store has been added as a starting point at `./src/lib/store/store.ts`
 

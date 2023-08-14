@@ -1,6 +1,6 @@
 # ClickFunnels Technical Exercise - Funnels Team
 
-👋 Welcome, {candidate_name}!
+👋 Welcome, Jonathan!
 
 You'll be given 1 hour alone to complete this exercise.
 
